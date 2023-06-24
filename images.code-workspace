@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio/images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather"
+	}
+}
